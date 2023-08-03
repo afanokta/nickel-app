@@ -38,3 +38,9 @@ Route::prefix('/kendaraan')->group(function() {
     });
 });
 
+Route::prefix('/laporan')->group(function() {
+    Route::controller(App\Http\Controllers\LaporanController::class)->group(function() {
+        Route::get('/', 'index')->name('laporan.index');
+    });
+});
+

@@ -64,7 +64,7 @@
                             </li>
                             @if (Auth::user()->role->role == 'admin')
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('persetujuan') }}">{{ __('Laporan') }}</a>
+                                    <a class="nav-link" href="{{ route('laporan.index') }}">{{ __('Laporan') }}</a>
                                 </li>
                             @endif
                             <li class="nav-item dropdown">
