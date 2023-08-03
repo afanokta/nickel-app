@@ -15,9 +15,8 @@ php artisan db:seed
 ### Attachment
 1.[ Activity Diagram](https://github.com/afanokta/nickel-app/blob/e05d2dccc03a53e885cdf4ae5530b3a5cc218dac/Activity%20Diagram.png)
 ![Physical Data Model](/Activity%20Diagram.png)
-1. [Physical Data Model](https://github.com/afanokta/nickel-app/blob/e05d2dccc03a53e885cdf4ae5530b3a5cc218dac/Physical%20Data%20Model.png)
+2. [Physical Data Model](https://github.com/afanokta/nickel-app/blob/e05d2dccc03a53e885cdf4ae5530b3a5cc218dac/Physical%20Data%20Model.png)
 ![Physical Data Model](/Physical%20Data%20Model.png)
-
 
 ### Email & role
 semua password akun adalah "password" (tanpa petik)
