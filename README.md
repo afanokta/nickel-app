@@ -18,6 +18,7 @@ php artisan db:seed
 1. [Physical Data Model](https://github.com/afanokta/nickel-app/blob/e05d2dccc03a53e885cdf4ae5530b3a5cc218dac/Physical%20Data%20Model.png)
 ![Physical Data Model](/Physical%20Data%20Model.png)
 
+
 ### Email & role
 semua password akun adalah "password" (tanpa petik)
 1. anto@gmail.com -> pegawai
